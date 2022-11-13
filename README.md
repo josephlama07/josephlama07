@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephlama07
-- 👀 I’m interested in javascript,html,css
-- 🌱 I’m currently learning html,css,javascript
+- 👀 I’m interested in javascript,html,css,Docker,Docker-compose,nginx,apache,kubernetes,terraform
+- 🌱 I’m currently learning html,css,javascript,Docker,Docker-compose,nginx,apache,kubernetes,terraform
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me josephlama07@gmail.com
 
